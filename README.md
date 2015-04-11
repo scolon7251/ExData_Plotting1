@@ -1,16 +1,13 @@
 ###Course Project 1
 
-The toplevel folder contains the R files and corresponding PNG plots created for Course Project 1 of Coursera/JHU's Exploratory Data Analysis MOOC.  Below you will find the introductio ot
+The toplevel folder contains the R files and corresponding PNG plots created for Course Project 1 of Coursera/JHU's Exploratory Data Analysis MOOC.  To reproduce the plots, you must download the data(zip file below) to your working directory and run each corresponding R script.  A description of the datasets is below.
 
 ## Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
-the course web site:
-
+datasets. 
 
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
